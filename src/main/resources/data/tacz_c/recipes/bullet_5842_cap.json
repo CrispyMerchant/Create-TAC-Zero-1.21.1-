@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:casefull_5842"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz:ammo",
+      "nbt": {
+      "AmmoId": "tacz:58x42"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_5842"
+        },
+        {
+          "item": "tacz_c:bullet"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_5842"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_5842"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_5842"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_5842"
+  }
+}

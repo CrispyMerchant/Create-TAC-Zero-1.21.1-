@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:fuseless_40mm"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz:ammo",
+      "nbt": {
+      "AmmoId": "tacz:40mm"
+    }
+  }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_40mm"
+        },
+        {
+          "item": "tacz_c:fuse_40mm"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_40mm"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_40mm"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_40mm"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_40mm"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    },
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    }
+  ],
+  "results": [
+    {
+      "item": "tacz_c:gunpowder_cylinder"
+    }
+  ]
+}

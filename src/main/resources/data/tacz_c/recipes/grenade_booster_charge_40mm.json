@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:booster_charge_40mm"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz_c:fuseless_40mm"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:booster_charge_40mm"
+        },
+        {
+          "item": "tacz_c:primer"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:booster_charge_40mm"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:booster_charge_40mm"
+        },
+        {
+          "item": "tacz_c:gunpowder_charge"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:booster_charge_40mm"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:booster_charge_40mm"
+        },
+        {
+          "item": "tacz_c:explosive_charge_40mm"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:booster_charge_40mm"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:booster_charge_40mm"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:case_45acp"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz_c:casefull_45acp"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:case_45acp"
+        },
+        {
+          "item": "tacz_c:primer"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:case_45acp"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:case_45acp"
+        },
+        {
+          "item": "tacz_c:gunpowder_grains"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:case_45acp"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:case_45acp"
+  }
+}

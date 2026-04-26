@@ -1,0 +1,93 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:paper"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz_c:wad",
+      "count": 30
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        },
+        {
+          "item": "minecraft:paper"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        },
+        {
+          "item": "minecraft:paper"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        },
+        {
+          "item": "minecraft:paper"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+         {
+          "item": "tacz_c:unfinished_wad"
+         }
+       ],
+       "processingTime": 400,
+       "results": [
+        {
+          "item": "tacz_c:unfinished_wad"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_wad"
+  }
+}

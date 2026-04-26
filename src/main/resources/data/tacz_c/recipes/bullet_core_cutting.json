@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "tacz_c:metal_nuggets"
+    }
+  ],
+  "processingTime": 225,
+  "results": [
+    {
+      "item": "tacz_c:bullet_core",
+      "count": 20
+    }
+  ]
+}

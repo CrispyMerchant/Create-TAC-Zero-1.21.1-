@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "tacz_c:gunpowder_cake_dry"
+    }
+  ],
+  "results": [
+    {
+      "item": "tacz_c:gunpowder_charge",
+      "count": 4
+    }
+  ]
+}

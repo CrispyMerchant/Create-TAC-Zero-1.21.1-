@@ -1,0 +1,81 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:casefull_338"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz:ammo",
+      "nbt": {
+      "AmmoId": "tacz:338"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_338"
+        },
+        {
+          "item": "tacz_c:large_bullet"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_338"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_338"
+        },
+        {
+          "item": "tacz_c:large_bullet"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_338"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_338"
+        },
+        {
+          "item": "tacz_c:large_bullet"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_338"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_338"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_338"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_338"
+  }
+}

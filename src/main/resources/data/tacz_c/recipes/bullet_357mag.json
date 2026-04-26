@@ -1,0 +1,81 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:case_357mag"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz_c:casefull_357mag"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:case_357mag"
+        },
+        {
+          "item": "tacz_c:primer"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:case_357mag"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:case_357mag"
+        },
+        {
+          "item": "tacz_c:gunpowder_grains"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:case_357mag"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:case_357mag"
+        },
+        {
+          "item": "tacz_c:gunpowder_grains"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:case_357mag"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:case_357mag"
+        },
+        {
+          "item": "tacz_c:gunpowder_grains"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:case_357mag"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:case_357mag"
+  }
+}

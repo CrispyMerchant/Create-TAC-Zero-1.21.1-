@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tacz_c:bullet_core"
+    },
+    {
+      "tag": "tacz_c:metal_jackets"
+    }
+  ],
+  "results": [
+    {
+      "item": "tacz_c:bullet"
+    }
+  ]
+}

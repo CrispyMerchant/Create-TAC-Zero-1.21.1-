@@ -1,0 +1,64 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:annealed_brass_cylinder"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz_c:case_50bmg",
+      "count": 1
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_case_50bmg"
+        },
+        {
+          "item": "tacz_c:annealed_brass_cylinder"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_case_50bmg"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_case_50bmg"
+        },
+        {
+          "item": "tacz_c:annealed_brass_cylinder"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_case_50bmg"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+         {
+          "item": "tacz_c:unfinished_case_50bmg"
+         }
+       ],
+       "processingTime": 100,
+       "results": [
+        {
+          "item": "tacz_c:unfinished_case_50bmg"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_case_50bmg"
+  }
+}

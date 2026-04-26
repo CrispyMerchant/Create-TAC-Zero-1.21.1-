@@ -1,0 +1,65 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:rpg_warhead"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "tacz:ammo",
+      "nbt": {
+      "AmmoId": "tacz:rpg_rocket"
+    }
+  }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_rpg_rocket"
+        },
+        {
+          "item": "tacz_c:rpg_sustainer_motor"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_rpg_rocket"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_rpg_rocket"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_rpg_rocket"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_rpg_rocket"
+        },
+        {
+          "item": "tacz_c:rpg_booster_charge"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_rpg_rocket"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_rpg_rocket"
+  }
+}

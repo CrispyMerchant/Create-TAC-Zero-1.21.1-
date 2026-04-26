@@ -1,0 +1,33 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tacz_c:casefull_12g"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "item": "tacz:ammo",
+      "nbt": {
+      "AmmoId": "tacz:12g"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "tacz_c:unfinished_12g"
+        }
+      ],
+      "results": [
+        {
+          "item": "tacz_c:unfinished_12g"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tacz_c:unfinished_12g"
+  }
+}

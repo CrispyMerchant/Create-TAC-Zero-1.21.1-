@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tacz_c:annealed_brass_cylinder"
+    }
+  ],
+  "processingTime": 105,
+  "results": [
+    {
+      "count": 3,
+      "item": "tacz_c:case_55645"
+    }
+  ]
+}

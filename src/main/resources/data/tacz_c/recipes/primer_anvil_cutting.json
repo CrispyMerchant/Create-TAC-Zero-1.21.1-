@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tacz_c:thin_brass_sheet"
+    }
+  ],
+  "processingTime": 750,
+  "results": [
+    {
+      "count": 40,
+      "item": "tacz_c:primer_anvils"
+    }
+  ]
+}

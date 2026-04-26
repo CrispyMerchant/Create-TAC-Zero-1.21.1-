@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:brass_ingot"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 25,
+      "item": "tacz_c:brass_cylinder"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "tacz_c:metal_jackets"
+    },
+    "b": {
+      "item": "tacz_c:large_bullet_core"
+    }
+  },
+  "result": {
+    "item": "tacz_c:large_bullet",
+    "count": 1
+  }
+}
