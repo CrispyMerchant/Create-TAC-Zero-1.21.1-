@@ -134,9 +134,8 @@ configurations {
 dependencies {
     // TACZ (Unofficial NeoForge 1.21.1 port by MUKSC)
     // CurseForge project ID 1353462 — compileOnly so it's not bundled, just available at compile time
-    compileOnly "curse.maven:tacz-neoforge-1353462:7955596"
-    // Also needed at runtime when testing in the dev environment
-    localRuntime "curse.maven:tacz-neoforge-1353462:7955596"
+    compileOnly "maven.modrinth:OypNE65K:9Jc8If0B"
+    localRuntime "maven.modrinth:OypNE65K:9Jc8If0B"
 
     // Create for NeoForge 1.21.1
     // CurseForge project ID 328085
@@ -151,6 +150,7 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             minecraft_version      : minecraft_version,
             minecraft_version_range: minecraft_version_range,
             neo_version            : neo_version,
+            neo_version_range      : neo_version_range,
             loader_version_range   : loader_version_range,
             mod_id                 : mod_id,
             mod_name               : mod_name,
