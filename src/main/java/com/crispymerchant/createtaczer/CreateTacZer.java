@@ -7,9 +7,10 @@ import net.neoforged.fml.common.Mod;
 @Mod(CreateTacZer.MOD_ID)
 public class CreateTacZer {
 
-    public static final String MOD_ID = "createtaczer";
+    public static final String MOD_ID = "tacz_c";
 
     public CreateTacZer(IEventBus modEventBus, ModContainer modContainer) {
         ModItems.register(modEventBus);
+        ModCreativeTabs.register(modEventBus);
     }
 }
