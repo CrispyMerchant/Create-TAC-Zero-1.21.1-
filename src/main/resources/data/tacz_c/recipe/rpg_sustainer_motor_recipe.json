@@ -1,6 +1,6 @@
 {
   "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
+  "accept_mirrored": true,
   "key": {
     "G": {
       "item": "tacz_c:gunpowder_cylinder"
@@ -16,12 +16,12 @@
     }
   },
   "pattern": [
-  	" GGG ",
+    " GGG ",
     "SGGRI",
     " GGG "
   ],
   "result": {
-    "item": "tacz_c:rpg_sustainer_motor",
+    "id": "tacz_c:rpg_sustainer_motor",
     "count": 3
   }
 }

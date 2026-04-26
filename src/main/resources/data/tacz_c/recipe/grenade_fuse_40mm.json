@@ -1,8 +1,8 @@
 {
   "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
+  "accept_mirrored": true,
   "key": {
-  	"P": {
+    "P": {
       "item": "tacz_c:primer"
     },
     "R": {
@@ -19,12 +19,12 @@
     }
   },
   "pattern": [
-  	" GG  ",
+    " GG  ",
     "IGRNP",
     " GG  "
   ],
   "result": {
-    "item": "tacz_c:fuse_40mm",
+    "id": "tacz_c:fuse_40mm",
     "count": 45
   }
 }

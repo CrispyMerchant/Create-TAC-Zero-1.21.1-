@@ -6,9 +6,11 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz:ammo",
-      "nbt": {
-      "AmmoId": "tacz:9mm"
+      "id": "tacz:ammo",
+      "components": {
+        "minecraft:custom_data": {
+          "AmmoId": "tacz:9mm"
+        }
       }
     }
   ],
@@ -25,7 +27,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_9mm"
+          "id": "tacz_c:unfinished_9mm"
         }
       ]
     },
@@ -41,7 +43,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_9mm"
+          "id": "tacz_c:unfinished_9mm"
         }
       ]
     },
@@ -54,12 +56,12 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_9mm"
+          "id": "tacz_c:unfinished_9mm"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:unfinished_9mm"
+  "transitional_item": {
+    "id": "tacz_c:unfinished_9mm"
   }
 }

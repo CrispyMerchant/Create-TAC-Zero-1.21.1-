@@ -1,24 +1,24 @@
 {
   "type": "create:mixing",
   "ingredients": [
-   {
-     "item": "minecraft:gunpowder"
-   },
-   {
-     "item": "minecraft:gunpowder"
-   },
-   {
-     "item": "minecraft:charcoal"
-   },
-   {
-     "amount": 250,
-     "fluid": "minecraft:water",
-     "nbt": {}
-   }
- ],
- "results": [
     {
-      "item": "tacz_c:gunpowder_cake",
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "tacz_c:gunpowder_cake",
       "count": 10
     }
   ]

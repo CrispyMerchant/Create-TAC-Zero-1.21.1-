@@ -5,11 +5,11 @@
       "item": "tacz_c:thin_brass_sheet"
     }
   ],
-  "processingTime": 750,
+  "processing_time": 750,
   "results": [
     {
       "count": 40,
-      "item": "tacz_c:primer_anvils"
+      "id": "tacz_c:primer_anvils"
     }
   ]
 }

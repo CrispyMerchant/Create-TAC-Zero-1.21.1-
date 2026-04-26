@@ -5,11 +5,11 @@
       "item": "tacz_c:thin_brass_sheet"
     }
   ],
-  "processingTime": 500,
+  "processing_time": 500,
   "results": [
     {
       "count": 20,
-      "item": "tacz_c:empty_primer_cups"
+      "id": "tacz_c:empty_primer_cups"
     }
   ]
 }

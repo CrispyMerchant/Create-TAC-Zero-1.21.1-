@@ -1,6 +1,6 @@
 {
   "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
+  "accept_mirrored": true,
   "key": {
     "A": {
       "tag": "tacz_c:metal_nuggets"
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 8,
-    "item": "tacz_c:pellets"
+    "id": "tacz_c:pellets"
   }
 }

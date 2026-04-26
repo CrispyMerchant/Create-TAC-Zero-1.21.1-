@@ -1,55 +1,55 @@
 {
   "type": "create:mixing",
   "ingredients": [
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-     "item": "minecraft:paper"
-   },
-   {
-      "amount": 100,
-      "fluid": "minecraft:water",
-      "nbt": {}
-   },
-   {
-     "item": "minecraft:red_dye"
-   },
-   {
-     "item":  "minecraft:honeycomb_block"
-   }
- ],
- "results": [
     {
-      "item": "tacz_c:red_paper",
-      "count": 10
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "minecraft:water"
+    },
+    {
+      "item": "minecraft:red_dye"
     },
     {
       "item": "minecraft:honeycomb_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "tacz_c:red_paper",
+      "count": 10
+    },
+    {
+      "id": "minecraft:honeycomb_block"
     }
   ]
 }

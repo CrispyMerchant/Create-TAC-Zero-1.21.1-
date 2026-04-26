@@ -5,10 +5,10 @@
       "tag": "tacz_c:metal_nuggets"
     }
   ],
-  "processingTime": 175,
+  "processing_time": 175,
   "results": [
     {
-      "item": "tacz_c:large_bullet_core",
+      "id": "tacz_c:large_bullet_core",
       "count": 10
     }
   ]

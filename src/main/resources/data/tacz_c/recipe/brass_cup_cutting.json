@@ -5,11 +5,11 @@
       "item": "tacz_c:thin_brass_sheet"
     }
   ],
-  "processingTime": 300,
+  "processing_time": 300,
   "results": [
     {
       "count": 50,
-      "item": "tacz_c:brass_cup"
+      "id": "tacz_c:brass_cup"
     }
   ]
 }

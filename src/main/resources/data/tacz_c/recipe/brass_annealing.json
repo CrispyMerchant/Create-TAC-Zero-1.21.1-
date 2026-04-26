@@ -6,5 +6,7 @@
   "ingredient": {
     "item": "tacz_c:brass_cylinder"
   },
-  "result": "tacz_c:annealed_brass_cylinder"
+  "result": {
+    "id": "tacz_c:annealed_brass_cylinder"
+  }
 }

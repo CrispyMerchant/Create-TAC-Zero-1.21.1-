@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz_c:casefull_357mag"
+      "id": "tacz_c:casefull_357mag"
     }
   ],
   "sequence": [
@@ -22,7 +22,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_357mag"
+          "id": "tacz_c:case_357mag"
         }
       ]
     },
@@ -38,7 +38,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_357mag"
+          "id": "tacz_c:case_357mag"
         }
       ]
     },
@@ -54,7 +54,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_357mag"
+          "id": "tacz_c:case_357mag"
         }
       ]
     },
@@ -70,12 +70,12 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_357mag"
+          "id": "tacz_c:case_357mag"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:case_357mag"
+  "transitional_item": {
+    "id": "tacz_c:case_357mag"
   }
 }

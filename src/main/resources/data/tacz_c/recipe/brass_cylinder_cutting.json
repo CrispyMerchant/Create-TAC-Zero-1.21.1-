@@ -5,11 +5,11 @@
       "item": "create:brass_ingot"
     }
   ],
-  "processingTime": 250,
+  "processing_time": 250,
   "results": [
     {
       "count": 25,
-      "item": "tacz_c:brass_cylinder"
+      "id": "tacz_c:brass_cylinder"
     }
   ]
 }

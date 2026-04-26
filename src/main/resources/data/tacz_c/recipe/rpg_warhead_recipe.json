@@ -1,6 +1,6 @@
 {
   "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
+  "accept_mirrored": true,
   "key": {
     "P": {
       "item": "tacz_c:primer"
@@ -19,12 +19,12 @@
     }
   },
   "pattern": [
-  	"  G  ",
+    "  G  ",
     "SGRPI",
     "  G  "
   ],
   "result": {
-    "item": "tacz_c:rpg_warhead",
+    "id": "tacz_c:rpg_warhead",
     "count": 1
   }
 }

@@ -5,11 +5,11 @@
       "item": "create:brass_sheet"
     }
   ],
-  "processingTime": 100,
+  "processing_time": 100,
   "results": [
     {
       "count": 10,
-      "item": "tacz_c:thin_brass_sheet"
+      "id": "tacz_c:thin_brass_sheet"
     }
   ]
 }

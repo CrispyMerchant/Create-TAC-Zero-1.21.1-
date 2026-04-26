@@ -5,11 +5,11 @@
       "item": "tacz_c:red_paper"
     }
   ],
-  "processingTime": 200,
+  "processing_time": 200,
   "results": [
     {
       "count": 10,
-      "item": "tacz_c:shell_case"
+      "id": "tacz_c:shell_case"
     }
   ]
 }

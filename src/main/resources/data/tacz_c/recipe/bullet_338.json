@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz_c:casefull_338"
+      "id": "tacz_c:casefull_338"
     }
   ],
   "sequence": [
@@ -22,7 +22,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_338"
+          "id": "tacz_c:case_338"
         }
       ]
     },
@@ -38,12 +38,12 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_338"
+          "id": "tacz_c:case_338"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:case_338"
+  "transitional_item": {
+    "id": "tacz_c:case_338"
   }
 }

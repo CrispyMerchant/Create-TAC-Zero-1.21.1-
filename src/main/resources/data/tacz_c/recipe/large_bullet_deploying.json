@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz_c:large_bullet"
+      "id": "tacz_c:large_bullet"
     }
   ],
   "sequence": [
@@ -22,7 +22,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_large_bullet"
+          "id": "tacz_c:unfinished_large_bullet"
         }
       ]
     },
@@ -38,12 +38,12 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_large_bullet"
+          "id": "tacz_c:unfinished_large_bullet"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:unfinished_large_bullet"
+  "transitional_item": {
+    "id": "tacz_c:unfinished_large_bullet"
   }
 }

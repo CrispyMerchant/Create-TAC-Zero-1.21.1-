@@ -1,6 +1,6 @@
 {
   "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
+  "accept_mirrored": true,
   "key": {
     "G": {
       "item": "tacz_c:gunpowder_cylinder"
@@ -10,12 +10,12 @@
     }
   },
   "pattern": [
-  	" G  ",
+    " G  ",
     "IGGI",
     " G  "
   ],
   "result": {
-    "item": "tacz_c:explosive_charge_40mm",
+    "id": "tacz_c:explosive_charge_40mm",
     "count": 15
   }
 }

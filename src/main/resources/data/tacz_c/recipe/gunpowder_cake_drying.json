@@ -6,5 +6,7 @@
   "ingredient": {
     "item": "tacz_c:gunpowder_cake"
   },
-  "result": "tacz_c:gunpowder_cake_dry"
+  "result": {
+    "id": "tacz_c:gunpowder_cake_dry"
+  }
 }

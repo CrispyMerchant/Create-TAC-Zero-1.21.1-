@@ -1,6 +1,6 @@
 {
   "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
+  "accept_mirrored": true,
   "key": {
     "G": {
       "item": "tacz_c:gunpowder_cylinder"
@@ -13,7 +13,7 @@
     "SGGGGS"
   ],
   "result": {
-    "item": "tacz_c:rpg_booster_charge",
+    "id": "tacz_c:rpg_booster_charge",
     "count": 6
   }
 }

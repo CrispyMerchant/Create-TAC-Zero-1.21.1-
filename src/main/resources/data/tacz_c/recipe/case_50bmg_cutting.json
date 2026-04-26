@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz_c:case_50bmg",
+      "id": "tacz_c:case_50bmg",
       "count": 1
     }
   ],
@@ -23,7 +23,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_case_50bmg"
+          "id": "tacz_c:unfinished_case_50bmg"
         }
       ]
     },
@@ -39,26 +39,26 @@
       ],
       "results": [
         {
-          "item": "tacz_c:unfinished_case_50bmg"
+          "id": "tacz_c:unfinished_case_50bmg"
         }
       ]
     },
     {
       "type": "create:cutting",
       "ingredients": [
-         {
-          "item": "tacz_c:unfinished_case_50bmg"
-         }
-       ],
-       "processingTime": 100,
-       "results": [
         {
           "item": "tacz_c:unfinished_case_50bmg"
+        }
+      ],
+      "processing_time": 100,
+      "results": [
+        {
+          "id": "tacz_c:unfinished_case_50bmg"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:unfinished_case_50bmg"
+  "transitional_item": {
+    "id": "tacz_c:unfinished_case_50bmg"
   }
 }

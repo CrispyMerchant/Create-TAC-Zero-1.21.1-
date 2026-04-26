@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz_c:casefull_50bmg"
+      "id": "tacz_c:casefull_50bmg"
     }
   ],
   "sequence": [
@@ -22,7 +22,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_50bmg"
+          "id": "tacz_c:case_50bmg"
         }
       ]
     },
@@ -38,7 +38,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_50bmg"
+          "id": "tacz_c:case_50bmg"
         }
       ]
     },
@@ -54,7 +54,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_50bmg"
+          "id": "tacz_c:case_50bmg"
         }
       ]
     },
@@ -70,7 +70,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_50bmg"
+          "id": "tacz_c:case_50bmg"
         }
       ]
     },
@@ -86,7 +86,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_50bmg"
+          "id": "tacz_c:case_50bmg"
         }
       ]
     },
@@ -102,12 +102,12 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_50bmg"
+          "id": "tacz_c:case_50bmg"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:case_50bmg"
+  "transitional_item": {
+    "id": "tacz_c:case_50bmg"
   }
 }

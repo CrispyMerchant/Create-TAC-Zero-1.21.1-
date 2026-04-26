@@ -16,7 +16,7 @@ public class ModCreativeTabs {
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CREATETACZER_TAB =
             CREATIVE_MODE_TABS.register("createtaczer_tab", () -> CreativeModeTab.builder()
                     .title(Component.translatable("itemGroup.createtaczer.tab"))
-                    .withTabsBefore(CreativeModeTabs.COMBAT)
+                    .withTabsBefore(CreativeModeTabs.SPAWN_EGGS)
                     .icon(() -> ModItems.CASEFULL_9MM.get().getDefaultInstance())
                     .displayItems((parameters, output) -> {
                         // Raw materials

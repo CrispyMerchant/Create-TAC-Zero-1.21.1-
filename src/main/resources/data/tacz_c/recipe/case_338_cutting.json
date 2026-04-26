@@ -5,11 +5,11 @@
       "item": "tacz_c:annealed_brass_cylinder"
     }
   ],
-  "processingTime": 80,
+  "processing_time": 80,
   "results": [
     {
       "count": 1,
-      "item": "tacz_c:case_338"
+      "id": "tacz_c:case_338"
     }
   ]
 }

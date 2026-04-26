@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "item": "tacz_c:casefull_76254"
+      "id": "tacz_c:casefull_76254"
     }
   ],
   "sequence": [
@@ -22,7 +22,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_76254"
+          "id": "tacz_c:case_76254"
         }
       ]
     },
@@ -38,7 +38,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_76254"
+          "id": "tacz_c:case_76254"
         }
       ]
     },
@@ -54,7 +54,7 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_76254"
+          "id": "tacz_c:case_76254"
         }
       ]
     },
@@ -70,12 +70,12 @@
       ],
       "results": [
         {
-          "item": "tacz_c:case_76254"
+          "id": "tacz_c:case_76254"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "tacz_c:case_76254"
+  "transitional_item": {
+    "id": "tacz_c:case_76254"
   }
 }
